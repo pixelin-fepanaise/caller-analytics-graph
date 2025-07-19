@@ -11,7 +11,7 @@
   /* Define color variables */
   --black-one: #1a1a1a;
   --green-one: rgb(3, 118, 97);
-  --white-one: aliceblue;
+  --white-one: rgb(255, 255, 255);
   --dropdown-border-color: #ccc;
   --loading-text-color: #696868;
   --dropdown-arrow-color: #000;
